@@ -1,0 +1,54 @@
+.box1 {
+    width: 400px;
+    background-color: rgb(184, 223, 252);
+    border: 1px solid rgb(217, 104, 155);
+    /* Margin is to center item */
+    margin-left: auto;
+    margin-right: auto;
+    /* An elements padding area is the space between its content and its boarder*/
+    padding: 20px;
+}
+
+/* Style box 2 by giving it a width of 700px, a color, a border, center the box, and add some padding */
+.box2 {
+    width: 700px;
+    background-color: rgb(160, 197, 239);
+    border: 3px solid rgb(53, 53, 132);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    Border-radius: 100px;
+    box-shadow: 30px 25px 5px rgb(23, 63, 126);
+}
+
+/* Style My Heading 1 with a larger size, different color, and font family */
+
+h1 {
+    font-size: 45px;
+    color: rgb(224, 130, 160);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+.Para1 {
+    color: rgb(184, 42, 109);
+}
+
+.Para2 {
+    color: rgb(236, 119, 142);
+}
+
+.Para3 {
+    font-size: 10px
+}
+
+.subBox {
+    background-color: rgb(255, 212, 236);
+    width: 100px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
